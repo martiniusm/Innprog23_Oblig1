@@ -1,2 +1,2 @@
-# Innprog23_Oblig1
+# Innprog23_Oblig
 Obligatorisk oppgave 
